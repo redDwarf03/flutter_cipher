@@ -10,7 +10,7 @@ environment:
 dependencies:
   asn1lib: ^0.5.8
   collection: ^1.14.11
-  pointycastle: ^1.0.1
+  pointycastle: ^2.0.0
   args: ^1.5.1
 
   flutter:
